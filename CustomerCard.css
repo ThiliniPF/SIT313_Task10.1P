@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+}
+.column{
+    flex: 10%;
+    padding: 20px;
+    text-align: center;
+}
+
+.picture-resize{
+    width: 200px;
+    height: 200px;
+}
